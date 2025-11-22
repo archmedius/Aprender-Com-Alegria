@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Aprender com Alegria",
+  "description": "Um aplicativo divertido para crianças angolanas (6-9 anos) aprenderem Português e Matemática com a ajuda da Sanda.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
